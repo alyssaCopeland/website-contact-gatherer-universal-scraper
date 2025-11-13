@@ -1,0 +1,11 @@
+[
+    {
+        "url": "https://example.com",
+        "email": "contact@example.com",
+        "phone": "+12025550194",
+        "facebook_profile": "https://facebook.com/examplebiz",
+        "instagram_profile": "https://instagram.com/examplebiz",
+        "linkedin_profile": "https://linkedin.com/company/examplebiz",
+        "twitter_x_profile": "https://x.com/examplebiz"
+    }
+]
